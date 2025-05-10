@@ -1,0 +1,1180 @@
+﻿  Bank System project.cpp
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,16): error C3646: 'parseToEmp': unknown override specifier
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,27): error C2275: 'std::string': expected an expression instead of a type
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,34): error C2146: syntax error: missing ')' before identifier 'line'
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,40): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,18): error C3646: 'parseToAdmin': unknown override specifier
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,31): error C2275: 'std::string': expected an expression instead of a type
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,38): error C2146: syntax error: missing ')' before identifier 'line'
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,44): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,25): error C2061: syntax error: identifier 'Emp'
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(48,27): error C2061: syntax error: identifier 'Admin'
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,17): error C2065: 'e': undeclared identifier
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,56): error C2065: 'e': undeclared identifier
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,78): error C2065: 'e': undeclared identifier
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,17): error C2065: 'a': undeclared identifier
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,56): error C2065: 'a': undeclared identifier
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,78): error C2065: 'a': undeclared identifier
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,13): error C2065: 'emps': undeclared identifier
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C2039: 'parseToEmp': is not a member of 'Parser'
+  (compiling source file 'Bank%20System%20project.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(8,7):
+      see declaration of 'Parser'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C3861: 'parseToEmp': identifier not found
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,13): error C2065: 'admins': undeclared identifier
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,38): error C2039: 'parseToAdmin': is not a member of 'Parser'
+  (compiling source file 'Bank%20System%20project.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(8,7):
+      see declaration of 'Parser'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,38): error C3861: 'parseToAdmin': identifier not found
+  (compiling source file 'Bank%20System%20project.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22): error C2660: 'FilesHelper::SaveEmp': function does not take 1 arguments
+  (compiling source file 'Bank%20System%20project.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,17):
+      see declaration of 'FilesHelper::SaveEmp'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22):
+      while trying to match the argument list '(Emp)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26): error C2660: 'FilesHelper::SaveEmp': function does not take 1 arguments
+  (compiling source file 'Bank%20System%20project.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,17):
+      see declaration of 'FilesHelper::SaveEmp'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26):
+      while trying to match the argument list '(Emp)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(13,22): error C2660: 'FilesHelper::SaveEmp': function does not take 1 arguments
+  (compiling source file 'Bank%20System%20project.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,17):
+      see declaration of 'FilesHelper::SaveEmp'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(13,22):
+      while trying to match the argument list '(Emp)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(17,22): error C2660: 'FilesHelper::SaveAdmin': function does not take 1 arguments
+  (compiling source file 'Bank%20System%20project.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(48,17):
+      see declaration of 'FilesHelper::SaveAdmin'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(17,22):
+      while trying to match the argument list '(Admin)'
+  
+  DataSourceInterface.cpp
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,22): error C2504: 'Emp': base class undefined
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(21,17): error C2061: syntax error: identifier 'Emp'
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(38,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(38,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(38,28): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(15,62): error C2614: 'Admin': illegal member initialization: 'Emp' is not a base or member
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(18,16): error C2065: 'salary': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(24,22): error C2065: 'name': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(25,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(25,21): error C2065: 'name': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(27,22): error C2065: 'pass': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(28,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(28,21): error C2065: 'pass': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(32,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(33,9): error C2065: 'emps': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(33,24): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,9): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,30): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22): error C3861: 'SaveEmp': identifier not found
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(35,26): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(48,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(48,14): error C2065: 'emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(48,20): error C3861: 'searchEmp': identifier not found
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(49,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(51,26): error C2065: 'name': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(52,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(52,26): error C2065: 'name': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(54,26): error C2065: 'pass': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(55,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(55,26): error C2065: 'pass': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(58,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,26): error C2065: 'emps': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,20): error C2530: 'emp': references must be initialized
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,20): error C3531: 'emp': a symbol whose type contains 'auto' must have an initializer
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,24): error C2143: syntax error: missing ';' before ':'
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,30): error C2143: syntax error: missing ';' before ')'
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,32): error C2065: 'emps': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,46): error C2065: 'emps': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,24): error C2672: 'std::find_if': no matching overloaded function found
+  (compiling source file 'DataSourceInterface.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(6501,31):
+      could be '_InIt std::find_if(_InIt,const _InIt,_Pr)'
+          C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,24):
+          '_InIt std::find_if(_InIt,const _InIt,_Pr)': expects 3 arguments - 2 provided
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(72,13): error C3536: 'it': cannot be used before it is initialized
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(72,19): error C2065: 'emps': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,13): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,34): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26): error C3861: 'SaveEmp': identifier not found
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(74,13): error C2065: 'emps': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,35): error C3861: 'getName': identifier not found
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,14): error C2593: 'operator <<' is ambiguous
+  (compiling source file 'DataSourceInterface.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(486,39):
+      could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(454,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(436,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(418,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(400,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(382,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(364,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(346,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(328,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(309,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(283,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(264,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(230,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(212,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(206,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(200,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(195,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(1088,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(953,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(947,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(942,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(936,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(819,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(774,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(738,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(694,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,14):
+      while trying to match the argument list '(std::basic_ostream<char,std::char_traits<char>>, unknown-type)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,60): error C3861: 'getID': identifier not found
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,16): error C3646: 'parseToEmp': unknown override specifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,27): error C2275: 'std::string': expected an expression instead of a type
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,34): error C2146: syntax error: missing ')' before identifier 'line'
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,40): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,25): error C2061: syntax error: identifier 'Emp'
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,17): error C2065: 'e': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,56): error C2065: 'e': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,78): error C2065: 'e': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,19): error C2039: 'getName': is not a member of 'Admin'
+  (compiling source file 'DataSourceInterface.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,7):
+      see declaration of 'Admin'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,58): error C2039: 'getPass': is not a member of 'Admin'
+  (compiling source file 'DataSourceInterface.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,7):
+      see declaration of 'Admin'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,13): error C2065: 'emps': undeclared identifier
+  (compiling source file 'DataSourceInterface.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C2039: 'parseToEmp': is not a member of 'Parser'
+  (compiling source file 'DataSourceInterface.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(8,7):
+      see declaration of 'Parser'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C3861: 'parseToEmp': identifier not found
+  (compiling source file 'DataSourceInterface.cpp')
+  
+  EmployeeManager.cpp
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,22): error C2504: 'Emp': base class undefined
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(21,17): error C2061: syntax error: identifier 'Emp'
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(38,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(38,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(38,28): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(15,62): error C2614: 'Admin': illegal member initialization: 'Emp' is not a base or member
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(18,16): error C2065: 'salary': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(24,22): error C2065: 'name': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(25,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(25,21): error C2065: 'name': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(27,22): error C2065: 'pass': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(28,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(28,21): error C2065: 'pass': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(32,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(33,9): error C2065: 'emps': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(33,24): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,9): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,30): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22): error C3861: 'SaveEmp': identifier not found
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(35,26): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(48,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(48,14): error C2065: 'emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(48,20): error C3861: 'searchEmp': identifier not found
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(49,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(51,26): error C2065: 'name': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(52,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(52,26): error C2065: 'name': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(54,26): error C2065: 'pass': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(55,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(55,26): error C2065: 'pass': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(58,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,26): error C2065: 'emps': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,20): error C2530: 'emp': references must be initialized
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,20): error C3531: 'emp': a symbol whose type contains 'auto' must have an initializer
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,24): error C2143: syntax error: missing ';' before ':'
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,30): error C2143: syntax error: missing ';' before ')'
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,32): error C2065: 'emps': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,46): error C2065: 'emps': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,24): error C2672: 'std::find_if': no matching overloaded function found
+  (compiling source file 'EmployeeManager.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(6501,31):
+      could be '_InIt std::find_if(_InIt,const _InIt,_Pr)'
+          C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,24):
+          '_InIt std::find_if(_InIt,const _InIt,_Pr)': expects 3 arguments - 2 provided
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(72,13): error C3536: 'it': cannot be used before it is initialized
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(72,19): error C2065: 'emps': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,13): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,34): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26): error C3861: 'SaveEmp': identifier not found
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(74,13): error C2065: 'emps': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,35): error C3861: 'getName': identifier not found
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,14): error C2593: 'operator <<' is ambiguous
+  (compiling source file 'EmployeeManager.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(486,39):
+      could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(454,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(436,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(418,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(400,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(382,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(364,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(346,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(328,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(309,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(283,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(264,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(230,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(212,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(206,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(200,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(195,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(1088,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(953,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(947,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(942,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(936,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(819,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(774,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(738,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(694,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,14):
+      while trying to match the argument list '(std::basic_ostream<char,std::char_traits<char>>, unknown-type)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,60): error C3861: 'getID': identifier not found
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,16): error C3646: 'parseToEmp': unknown override specifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,27): error C2275: 'std::string': expected an expression instead of a type
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,34): error C2146: syntax error: missing ')' before identifier 'line'
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,40): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,25): error C2061: syntax error: identifier 'Emp'
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,17): error C2065: 'e': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,56): error C2065: 'e': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,78): error C2065: 'e': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,19): error C2039: 'getName': is not a member of 'Admin'
+  (compiling source file 'EmployeeManager.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,7):
+      see declaration of 'Admin'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,58): error C2039: 'getPass': is not a member of 'Admin'
+  (compiling source file 'EmployeeManager.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,7):
+      see declaration of 'Admin'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,13): error C2065: 'emps': undeclared identifier
+  (compiling source file 'EmployeeManager.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C2039: 'parseToEmp': is not a member of 'Parser'
+  (compiling source file 'EmployeeManager.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(8,7):
+      see declaration of 'Parser'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C3861: 'parseToEmp': identifier not found
+  (compiling source file 'EmployeeManager.cpp')
+  
+  FileManger.cpp
+C:\Users\HP\source\repos\Bank System project\Bank System project\Emp.h(52,8): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'FileManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Emp.h(52,21): error C3861: 'SaveClient': identifier not found
+  (compiling source file 'FileManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,9): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'FileManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22): error C3861: 'SaveEmp': identifier not found
+  (compiling source file 'FileManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,13): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'FileManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26): error C3861: 'SaveEmp': identifier not found
+  (compiling source file 'FileManger.cpp')
+  
+  FilesHelper.cpp
+C:\Users\HP\source\repos\Bank System project\Bank System project\Emp.h(52,8): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'FilesHelper.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Emp.h(52,21): error C3861: 'SaveClient': identifier not found
+  (compiling source file 'FilesHelper.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,9): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'FilesHelper.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22): error C3861: 'SaveEmp': identifier not found
+  (compiling source file 'FilesHelper.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,13): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'FilesHelper.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26): error C3861: 'SaveEmp': identifier not found
+  (compiling source file 'FilesHelper.cpp')
+  
+  LoginManger.cpp
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,16): error C3646: 'parseToEmp': unknown override specifier
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,27): error C2275: 'std::string': expected an expression instead of a type
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,34): error C2146: syntax error: missing ')' before identifier 'line'
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,40): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,18): error C3646: 'parseToAdmin': unknown override specifier
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,31): error C2275: 'std::string': expected an expression instead of a type
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,38): error C2146: syntax error: missing ')' before identifier 'line'
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,44): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,25): error C2061: syntax error: identifier 'Emp'
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(48,27): error C2061: syntax error: identifier 'Admin'
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,17): error C2065: 'e': undeclared identifier
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,56): error C2065: 'e': undeclared identifier
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,78): error C2065: 'e': undeclared identifier
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,17): error C2065: 'a': undeclared identifier
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,56): error C2065: 'a': undeclared identifier
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,78): error C2065: 'a': undeclared identifier
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,13): error C2065: 'emps': undeclared identifier
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C2039: 'parseToEmp': is not a member of 'Parser'
+  (compiling source file 'LoginManger.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(8,7):
+      see declaration of 'Parser'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C3861: 'parseToEmp': identifier not found
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,13): error C2065: 'admins': undeclared identifier
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,38): error C2039: 'parseToAdmin': is not a member of 'Parser'
+  (compiling source file 'LoginManger.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(8,7):
+      see declaration of 'Parser'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,38): error C3861: 'parseToAdmin': identifier not found
+  (compiling source file 'LoginManger.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22): error C2660: 'FilesHelper::SaveEmp': function does not take 1 arguments
+  (compiling source file 'LoginManger.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,17):
+      see declaration of 'FilesHelper::SaveEmp'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22):
+      while trying to match the argument list '(Emp)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26): error C2660: 'FilesHelper::SaveEmp': function does not take 1 arguments
+  (compiling source file 'LoginManger.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,17):
+      see declaration of 'FilesHelper::SaveEmp'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26):
+      while trying to match the argument list '(Emp)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(13,22): error C2660: 'FilesHelper::SaveEmp': function does not take 1 arguments
+  (compiling source file 'LoginManger.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,17):
+      see declaration of 'FilesHelper::SaveEmp'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(13,22):
+      while trying to match the argument list '(Emp)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(17,22): error C2660: 'FilesHelper::SaveAdmin': function does not take 1 arguments
+  (compiling source file 'LoginManger.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(48,17):
+      see declaration of 'FilesHelper::SaveAdmin'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(17,22):
+      while trying to match the argument list '(Admin)'
+  
+  Parser.cpp
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,25): error C2061: syntax error: identifier 'Emp'
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(48,27): error C2061: syntax error: identifier 'Admin'
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,17): error C2065: 'e': undeclared identifier
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,56): error C2065: 'e': undeclared identifier
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,78): error C2065: 'e': undeclared identifier
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,17): error C2065: 'a': undeclared identifier
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,56): error C2065: 'a': undeclared identifier
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,78): error C2065: 'a': undeclared identifier
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(64,34): error C2653: 'Parser': is not a class or namespace name
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(64,42): error C3861: 'parseToClient': identifier not found
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,13): error C2065: 'emps': undeclared identifier
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,28): error C2653: 'Parser': is not a class or namespace name
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C3861: 'parseToEmp': identifier not found
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,13): error C2065: 'admins': undeclared identifier
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,30): error C2653: 'Parser': is not a class or namespace name
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,38): error C3861: 'parseToAdmin': identifier not found
+  (compiling source file 'Parser.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22): error C2660: 'FilesHelper::SaveEmp': function does not take 1 arguments
+  (compiling source file 'Parser.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,17):
+      see declaration of 'FilesHelper::SaveEmp'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22):
+      while trying to match the argument list '(Emp)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26): error C2660: 'FilesHelper::SaveEmp': function does not take 1 arguments
+  (compiling source file 'Parser.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,17):
+      see declaration of 'FilesHelper::SaveEmp'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26):
+      while trying to match the argument list '(Emp)'
+  
+  Person.cpp
+C:\Users\HP\source\repos\Bank System project\Bank System project\Person.cpp(33,13): error C2084: function 'int Person::getID(void) const' already has a body
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Person.h(27,20):
+      see previous definition of 'Person::getID'
+  
+  Screens.cpp
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,16): error C3646: 'parseToEmp': unknown override specifier
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,27): error C2275: 'std::string': expected an expression instead of a type
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,34): error C2146: syntax error: missing ')' before identifier 'line'
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,40): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,18): error C3646: 'parseToAdmin': unknown override specifier
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,31): error C2275: 'std::string': expected an expression instead of a type
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,38): error C2146: syntax error: missing ')' before identifier 'line'
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(38,44): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,25): error C2061: syntax error: identifier 'Emp'
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(48,27): error C2061: syntax error: identifier 'Admin'
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,17): error C2065: 'e': undeclared identifier
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,56): error C2065: 'e': undeclared identifier
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,78): error C2065: 'e': undeclared identifier
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,17): error C2065: 'a': undeclared identifier
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,56): error C2065: 'a': undeclared identifier
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,78): error C2065: 'a': undeclared identifier
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,13): error C2065: 'emps': undeclared identifier
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C2039: 'parseToEmp': is not a member of 'Parser'
+  (compiling source file 'Screens.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(8,7):
+      see declaration of 'Parser'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C3861: 'parseToEmp': identifier not found
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,13): error C2065: 'admins': undeclared identifier
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,38): error C2039: 'parseToAdmin': is not a member of 'Parser'
+  (compiling source file 'Screens.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(8,7):
+      see declaration of 'Parser'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(84,38): error C3861: 'parseToAdmin': identifier not found
+  (compiling source file 'Screens.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22): error C2660: 'FilesHelper::SaveEmp': function does not take 1 arguments
+  (compiling source file 'Screens.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,17):
+      see declaration of 'FilesHelper::SaveEmp'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22):
+      while trying to match the argument list '(Emp)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26): error C2660: 'FilesHelper::SaveEmp': function does not take 1 arguments
+  (compiling source file 'Screens.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,17):
+      see declaration of 'FilesHelper::SaveEmp'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26):
+      while trying to match the argument list '(Emp)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(13,22): error C2660: 'FilesHelper::SaveEmp': function does not take 1 arguments
+  (compiling source file 'Screens.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,17):
+      see declaration of 'FilesHelper::SaveEmp'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(13,22):
+      while trying to match the argument list '(Emp)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(17,22): error C2660: 'FilesHelper::SaveAdmin': function does not take 1 arguments
+  (compiling source file 'Screens.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(48,17):
+      see declaration of 'FilesHelper::SaveAdmin'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\FileManger.h(17,22):
+      while trying to match the argument list '(Admin)'
+  
+  SuperAdmin.cpp
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,22): error C2504: 'Emp': base class undefined
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(21,17): error C2061: syntax error: identifier 'Emp'
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(38,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(38,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(38,28): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(15,62): error C2614: 'Admin': illegal member initialization: 'Emp' is not a base or member
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(18,16): error C2065: 'salary': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(24,22): error C2065: 'name': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(25,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(25,21): error C2065: 'name': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(27,22): error C2065: 'pass': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(28,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(28,21): error C2065: 'pass': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(32,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(33,9): error C2065: 'emps': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(33,24): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,9): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,30): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(34,22): error C3861: 'SaveEmp': identifier not found
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(35,26): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(48,9): error C2065: 'Emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(48,14): error C2065: 'emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(48,20): error C3861: 'searchEmp': identifier not found
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(49,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(51,26): error C2065: 'name': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(52,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(52,26): error C2065: 'name': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(54,26): error C2065: 'pass': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(55,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(55,26): error C2065: 'pass': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(58,13): error C2065: 'emp': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,26): error C2065: 'emps': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,20): error C2530: 'emp': references must be initialized
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,20): error C3531: 'emp': a symbol whose type contains 'auto' must have an initializer
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,24): error C2143: syntax error: missing ';' before ':'
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(63,30): error C2143: syntax error: missing ';' before ')'
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,32): error C2065: 'emps': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,46): error C2065: 'emps': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,24): error C2672: 'std::find_if': no matching overloaded function found
+  (compiling source file 'SuperAdmin.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(6501,31):
+      could be '_InIt std::find_if(_InIt,const _InIt,_Pr)'
+          C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(68,24):
+          '_InIt std::find_if(_InIt,const _InIt,_Pr)': expects 3 arguments - 2 provided
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(72,13): error C3536: 'it': cannot be used before it is initialized
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(72,19): error C2065: 'emps': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,13): error C2653: 'FilesHelper': is not a class or namespace name
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,34): error C2100: you cannot dereference an operand of type 'int'
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(73,26): error C3861: 'SaveEmp': identifier not found
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(74,13): error C2065: 'emps': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,35): error C3861: 'getName': identifier not found
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,14): error C2593: 'operator <<' is ambiguous
+  (compiling source file 'SuperAdmin.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(486,39):
+      could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(454,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(436,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(418,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(400,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(382,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(364,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(346,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(328,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(309,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(283,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(264,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(230,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(212,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(206,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(200,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(195,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(1088,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(953,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(947,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(942,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(936,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(819,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(774,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(738,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\ostream(694,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,14):
+      while trying to match the argument list '(std::basic_ostream<char,std::char_traits<char>>, unknown-type)'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(83,60): error C3861: 'getID': identifier not found
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,16): error C3646: 'parseToEmp': unknown override specifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,27): error C2275: 'std::string': expected an expression instead of a type
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,34): error C2146: syntax error: missing ')' before identifier 'line'
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(29,40): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(39,25): error C2061: syntax error: identifier 'Emp'
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,17): error C2065: 'e': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,56): error C2065: 'e': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(43,78): error C2065: 'e': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,19): error C2039: 'getName': is not a member of 'Admin'
+  (compiling source file 'SuperAdmin.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,7):
+      see declaration of 'Admin'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(52,58): error C2039: 'getPass': is not a member of 'Admin'
+  (compiling source file 'SuperAdmin.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,7):
+      see declaration of 'Admin'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,13): error C2065: 'emps': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C2039: 'parseToEmp': is not a member of 'Parser'
+  (compiling source file 'SuperAdmin.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Parser.h(8,7):
+      see declaration of 'Parser'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\FilesHelper.h(74,36): error C3861: 'parseToEmp': identifier not found
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\SuperAdmin.h(26,22): error C2065: 'name': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\SuperAdmin.h(27,15): error C2039: 'setName': is not a member of 'Admin'
+  (compiling source file 'SuperAdmin.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,7):
+      see declaration of 'Admin'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\SuperAdmin.h(27,23): error C2065: 'name': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\SuperAdmin.h(29,22): error C2065: 'pass': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\SuperAdmin.h(30,15): error C2039: 'setPass': is not a member of 'Admin'
+  (compiling source file 'SuperAdmin.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,7):
+      see declaration of 'Admin'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\SuperAdmin.h(30,23): error C2065: 'pass': undeclared identifier
+  (compiling source file 'SuperAdmin.cpp')
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\SuperAdmin.h(34,15): error C2039: 'setSalary': is not a member of 'Admin'
+  (compiling source file 'SuperAdmin.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,7):
+      see declaration of 'Admin'
+  
+C:\Users\HP\source\repos\Bank System project\Bank System project\SuperAdmin.h(38,32): error C2039: 'getName': is not a member of 'Admin'
+  (compiling source file 'SuperAdmin.cpp')
+      C:\Users\HP\source\repos\Bank System project\Bank System project\Admin.h(10,7):
+      see declaration of 'Admin'
+  
+  Generating Code...
